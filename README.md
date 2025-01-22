@@ -1,4 +1,7 @@
 # Robot_Automation :robot:
+
+Welcome! During my time as a Robotics Engineering Intern, I was given a spare robotic arm to play around with. These are the results of all my ventures. Enjoy!
+
 ## Directory Overview
 ### robot_assistant_tts.py
 
